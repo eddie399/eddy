@@ -6,25 +6,25 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Abstarct Agency Website",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
-    image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+      "This is a business website, i designed and developed for Abstract Agency.",
+    image: "/scraaaa.png",
+    github: "",
+    link: "",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
-    image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    name: "Azra Furniture",
+    description: "another bussiness web app.",
+    image: "/sping web.png",
+    github: "",
+    link: "",
   },
   {
-    name: "Kator Family Photos",
+    name: "Style Destination",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
+      "Style Destination site isa site that seles different product like clothes, jewerelly, shoes and many more.",
+    image: "/destination.png",
     github: "https://github.com/hqasmei/katorfamilyphotos",
     link: "https://katorfamilyphotos.com/",
   },
